@@ -3,4 +3,4 @@
 type: experiment
 name: enable tutorial
 flag: default.enableTutorial
-value: false
+value: true
