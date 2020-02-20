@@ -2,5 +2,6 @@
 # URL: https://app.rollout.io/ex/5e4ed9171d086fdbad7a6f9c
 type: experiment
 name: enable tutorial
+enabled: false
 flag: default.enableTutorial
 value: true
