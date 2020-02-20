@@ -7,4 +7,9 @@ availableValues:
   - Summer
   - Ryan
   - Michelle
-value: []
+conditions:
+  - group:
+      operator: and
+      name: iphone users
+    value: Summer
+value: Ryan
