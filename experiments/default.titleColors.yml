@@ -2,6 +2,7 @@
 # URL: https://app.rollout.io/ex/5e4ed6288600165d5e8e62aa
 type: experiment
 name: title colors
+enabled: false
 flag: default.titleColors
 availableValues:
   - Yellow
