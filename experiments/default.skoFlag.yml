@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e4edaad77f4cf39db9770d4
+type: experiment
+name: sko flag
+flag: default.skoFlag
+availableValues:
+  - SKO
+  - Jenkins World
+  - DevOps World
+value: []
