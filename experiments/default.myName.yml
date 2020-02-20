@@ -9,7 +9,7 @@ availableValues:
   - Michelle
 conditions:
   - group:
-      operator: and
+      operator: nor
       name: iphone users
     value: Summer
 value: Ryan
