@@ -1,0 +1,7 @@
+type: target-group
+name: iphone users
+conditions:
+  - operator: in-array
+    property: rox.platform
+    operand:
+      - iOS
